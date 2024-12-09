@@ -35,7 +35,7 @@ done
 
 # Default parameters
 ALLOW_SELF_REGISTER="true"
-ENABLE_LAMBDA_SNAPSTART="true"
+ENABLE_LAMBDA_SNAPSTART="false" #true causes deployment errors with incompatibility with python version
 IPV4_RANGES=""
 IPV6_RANGES=""
 DISABLE_IPV6="false"
