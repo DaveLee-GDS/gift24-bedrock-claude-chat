@@ -40,7 +40,7 @@ IPV4_RANGES=""
 IPV6_RANGES=""
 DISABLE_IPV6="false"
 ALLOWED_SIGN_UP_EMAIL_DOMAINS="digital.cabinet-office.gov.uk"
-BEDROCK_REGION="eu-west-2"
+BEDROCK_REGION="us-east-1" #doesn't seem to deploy outside of this region
 VERSION="v2"
 
 # Parse command-line arguments for customization
