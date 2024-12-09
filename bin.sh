@@ -35,12 +35,12 @@ done
 
 # Default parameters
 ALLOW_SELF_REGISTER="true"
-ENABLE_LAMBDA_SNAPSTART="false"
+ENABLE_LAMBDA_SNAPSTART="true"
 IPV4_RANGES=""
 IPV6_RANGES=""
 DISABLE_IPV6="false"
-ALLOWED_SIGN_UP_EMAIL_DOMAINS=""
-BEDROCK_REGION="us-east-1"
+ALLOWED_SIGN_UP_EMAIL_DOMAINS="digital.cabinet-office.gov.uk"
+BEDROCK_REGION="eu-west-2"
 VERSION="v2"
 
 # Parse command-line arguments for customization
